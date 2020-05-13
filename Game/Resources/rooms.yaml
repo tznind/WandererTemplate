@@ -1,0 +1,5 @@
+- Name: Endless Plains
+  MandatoryActors:
+    - Name: Girafe
+      Dialogue:
+         Next: b270c715-84e1-49b6-90df-91ea9e34075c
