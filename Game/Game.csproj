@@ -10,8 +10,8 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Wanderer" Version="0.0.18" />
-    <PackageReference Include="Wanderer.TerminalGui" Version="0.0.18" />
+    <PackageReference Include="Wanderer" Version="0.1.0" />
+    <PackageReference Include="Wanderer.TerminalGui" Version="0.1.0" />
   </ItemGroup>
 
 </Project>
