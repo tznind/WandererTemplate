@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"yaml.schemas": {
+			"./Game/Resources/Schemas/injury.schema.json": [ "/**/*injury.yaml" ],
+			"./Game/Resources/Schemas/dialogue.schema.json": [ "/**/*dialogue.yaml" ],
+			"./Game/Resources/Schemas/adjectives.schema.json": [ "/**/*adjectives.yaml" ],
+			"./Game/Resources/Schemas/actions.schema.json": [ "/**/*actions.yaml" ],
+			"./Game/Resources/Schemas/items.schema.json": [ "/**/*items.yaml" ],
+			"./Game/Resources/Schemas/rooms.schema.json": [ "/**/*rooms.yaml" ],
+			"./Game/Resources/Schemas/actors.schema.json": [ "/**/*actors.yaml" ],
+			"./Game/Resources/Schemas/faction.schema.json": [ "/**/*faction.yaml" ],
+			"./Game/Resources/Schemas/plans.schema.json": [ "/**/*plans.yaml" ],
+			"./Game/Resources/Schemas/slots.schema.json": [ "/**/*slots.yaml" ],
+			
+		}
+    }
+}

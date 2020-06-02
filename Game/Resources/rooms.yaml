@@ -1,4 +1,5 @@
 - Name: Endless Plains
+  Tile: .
   MandatoryActors:
     - Name: Girafe
       Dialogue:
